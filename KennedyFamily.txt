@@ -1,18 +1,19 @@
 Family of John F. Kennedy
+-------------------------
 
-Parents:
+# Parents:
 Joseph P. Kennedy Sr. (Father)
 Rose Fitzgerald Kennedy (Mother)
 
-Wife:
+# Wife:
 Jacqueline Bouvier Kennedy (Wife, married in 1953)
 
-Children:
+# Children:
 Caroline Kennedy (Born 1957)
 John F. Kennedy Jr. (Born 1960, died in 1999 in a plane crash)
 Patrick Bouvier Kennedy (Born 1963, died shortly after birth)
 
-Grandchildren (through Caroline Kennedy):
+# Grandchildren (through Caroline Kennedy):
 Rose Kennedy Schlossberg (Born 1988)
 Tatiana Schlossberg (Born 1990)
 Jack Schlossberg (Born 1993)
