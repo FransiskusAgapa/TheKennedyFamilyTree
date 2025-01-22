@@ -5,6 +5,8 @@ John Fitzgerald Kennedy (JFK) was the 35th President of the United States, servi
 https://github.com/user-attachments/assets/b3c10160-1ee6-4a90-b8b9-7301dc0b372d
 
 
+# Concept Learned
+- Facts to define 'truth'. Example, `father("Joseph P. Kennedy Sr.","The Father").`
 
 # Skills Learned
 - Defining facts and rules.
