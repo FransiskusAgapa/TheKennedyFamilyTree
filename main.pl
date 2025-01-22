@@ -53,3 +53,5 @@ show_children :-
     write("The 3rd child is "),write(RdTitle),write(", "),write(RdName),write('.').
 
 % TODO
+% Add grandchildren
+% Personalized functions name (its like prompt)
