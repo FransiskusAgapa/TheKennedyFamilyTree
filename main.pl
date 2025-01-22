@@ -20,11 +20,17 @@ show_status :-
     write(" was known for as "),
     write(Title),nl.
 
-% parents 
+% parents
+father("Joseph P. Kennedy Sr.","The Father").
+mother("Rose Fitzgerald Kennedy","The Mother").
 
 % wife 
+wife("Jacqueline Bouvier Kennedy", "The Wife").
 
 % children
+first_child("Caroline Kennedy","The Daughter").
+second_child("John F. Kennedy Jr","The Son.").
+third_child("Patrick Bouvier Kennedy","The Son.").
 
 % grandchildren
 
