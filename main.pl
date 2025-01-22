@@ -54,4 +54,4 @@ show_children :-
 
 % TODO
 % Add grandchildren
-% Personalized functions name (its like prompt)
+% Update functions name (its like prompt)
