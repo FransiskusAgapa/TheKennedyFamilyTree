@@ -3,7 +3,8 @@
 
 title("Kennedy","Family Tree").
 
-status("Kennedy", "The 35th President of the US who was assassinated").
+status("Kennedy", "The 35th President of the US who was assassinated. 
+He is remembered for his leadership during the Cuban Missile Crisis, his advocacy for civil rights, and his vision for space exploration.").
 
 % parents
 father("Joseph P. Kennedy Sr.","The Father").
