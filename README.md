@@ -6,9 +6,16 @@ https://github.com/user-attachments/assets/b3c10160-1ee6-4a90-b8b9-7301dc0b372d
 
 
 # Concept Learned
-- Facts to define 'truth'. Example, `father("Joseph P. Kennedy Sr.","The Father").`
+- Facts to define 'truth'. Example, `father("Joseph P. Kennedy Sr.","The Father")`.
+- Querying Facts. Example, `title(Name, Title)`.
+- Variables. Example, `Name`, `Title`.
+- Rules that define relationships and logic. Example `show_wife` is a rule, `wife` is the fact to display.
+- Output with `write/1`. Example, `write(Name)`, `write(" is ")`, `write(Title)`.
+- Procedural execution.
 
 # Skills Learned
-- Defining facts and rules.
-- Querying logical relationships.
-
+- Write simple knowledge
+- Using Prolog' unification to retrieve data
+- Understanding how Prolog assings values to variables during execution
+- Write rules based on existing facts for meaningful results.
+- Structure program with a mix of facts, rules, and procedural steps. 
